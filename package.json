@@ -103,7 +103,7 @@
     "@eslint/core": "^0.7.0",
     "@eslint/eslintrc": "^3.1.0",
     "@eslint/js": "9.13.0",
-    "@eslint/plugin-kit": "^0.2.0",
+    "@eslint/plugin-kit": "^0.3.4",
     "@humanfs/node": "^0.16.5",
     "@humanwhocodes/module-importer": "^1.0.1",
     "@humanwhocodes/retry": "^0.3.1",
